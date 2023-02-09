@@ -1,0 +1,4 @@
+Phone        Model       Cost
+
+Iphone 10     Apple       12000
+galaxy        samsung   13000
